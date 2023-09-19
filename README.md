@@ -9,7 +9,7 @@ Stochastic parrot experiments.
 ## Install Stockfish
 
 On Debian/APT-based Linux distributions:
-apt install stockfish 
+```apt install stockfish```
 
 On macOS with Homebrew:
 ```brew install stockfish```
