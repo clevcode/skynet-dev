@@ -5,8 +5,8 @@ Stochastic parrot experiments.
 See if you can beat a stochastic parrot at Chess @ https://ParrotChess.com/ :D
 Powered by GPT-3.5. It uses the same basic prompting technique and the same
 OpenAI model (gpt-3.5-turbo-instruct) as checkmate.py in this repo, but it
-lets you play interactively against it in the browser instead of playing
-against Stockfish.
+lets you play interactively against GPT-3.5 in the browser instead of GPT-3.5
+playing against Stockfish.
 
 ## Install Python dependencies
 
