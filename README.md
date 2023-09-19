@@ -20,3 +20,5 @@ On macOS with Homebrew:
 export OPENAI_KEY=<your-openai-API-key>
 ./checkmate.py
 ```
+
+![GPT-3.5 vs Stockfish 1700 ELO](checkmate.gif)
